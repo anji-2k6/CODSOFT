@@ -3,7 +3,7 @@ Java Development Internship Tasks for CODSOFT
 
 This repository contains Java projects completed for the CodSoft Java Development Internship.
 
-Tasks Completed
+# Tasks Completed
 
 1.Number Guessing Game
 
@@ -13,7 +13,7 @@ Tasks Completed
 
 4.Currency Converter
 
-Technologies Used
+# Technologies Used
 
 Java
 
@@ -21,6 +21,6 @@ Swing GUI
 
 OOP Concepts
 
-Author
+# Author
 
 Anji
