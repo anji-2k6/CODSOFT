@@ -3,17 +3,21 @@ Java Development Internship Tasks for CODSOFT
 
 This repository contains Java projects completed for the CodSoft Java Development Internship.
 
-# Tasks Completed
+## Tasks Completed
 
-1.Number Guessing Game
+1. Number Guessing Game
 
-2.Student Grade Calculator
+2. Student Grade Calculator
 
-3.ATM Interface
+3. ATM Interface  
+   - Bank Account Class  
+   - Deposit Method  
+   - Withdraw Method  
+   - Check Balance Method  
 
-4.Currency Converter
+4. Currency Converter
 
-# Technologies Used
+## Technologies Used
 
 Java
 
@@ -21,6 +25,6 @@ Swing GUI
 
 OOP Concepts
 
-# Author
+## Author
 
 Anji
